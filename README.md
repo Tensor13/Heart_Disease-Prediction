@@ -4,6 +4,6 @@
   Heart disease is a leading cause of death worldwide, and early prediction can help in timely intervention and management. This notebook demonstrates how to leverage machine learning techniques to predict heart disease based on patient data such as age, gender, cholesterol levels, and other medical attributes.
  ## Features
   * ### Data Preprocessing:
-     Handles missing values, encodes categorical features, and scales numerical features.
+Handles missing values, encodes categorical features, and scales numerical features.
   * ### Exploratory Data Analysis (EDA):
         Visualizes correlations and distributions of key attributes.
