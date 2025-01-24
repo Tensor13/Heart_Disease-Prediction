@@ -24,10 +24,10 @@ The dataset used in this project is structured and contains several key attribut
 * 2.Sex: Gender of the patient, typically encoded as 1 for male and 0 for female.
 
 * 3.Chest Pain Type (cp): Represents the type of chest pain experienced:
-  * 0: Typical angina
-  * 1: Atypical angina
-  * 2: Non-anginal pain
-  * 3.Asymptomatic
+   * 0: Typical angina
+   * 1: Atypical angina
+   * 2: Non-anginal pain
+   * 3.Asymptomatic
 
 * 4.Resting Blood Pressure (trestbps): Blood pressure in mm Hg when the patient is at rest.
 
